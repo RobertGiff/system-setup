@@ -1,4 +1,4 @@
-execute pathogen#infect()
+call pathogen#infect()
 
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
