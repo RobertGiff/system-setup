@@ -1,6 +1,6 @@
 # Welcome to my vim plugin repository!
 
-This repository is used to quickly pull my vim plugins onto new machines.
+This repository is used to quickly pull my vim plugins onto new machines as well as set up my bash shell.
 
 ## Installation:
 *NOTE*: You will probably want to move the old ~/.vim directory if it already exists to ~/.vim-old if you have a .vim directory.
