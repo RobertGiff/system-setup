@@ -4,3 +4,9 @@
 [submodule "bundle/vim-colorschemes"]
 	path = bundle/vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bash-git-prompt"]
+	path = bash-git-prompt
+	url = https://github.com/magicmonty/bash-git-prompt.git
+[submodule "bundle/bash-git-prompt"]
+	path = bundle/bash-git-prompt
+	url = https://github.com/magicmonty/bash-git-prompt.git
