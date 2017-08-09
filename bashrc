@@ -136,6 +136,6 @@ fi
 #source ~/.bash-git-prompt/gitprompt.sh
 
 if ! pidof -x "oneko" >/dev/null; then
-    oneko -tora -fg black -bg orange &
+    oneko -tora -fg black -bg darkorange &
     disown "%+"
 fi
