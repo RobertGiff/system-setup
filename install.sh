@@ -1,4 +1,5 @@
 git submodule update --init
+sudo apt-get install oneko
 #cp -r ./bundle/bash-git-prompt/ ~/.bash-git-prompt
 cp ./vimrc ~/.vimrc
 cp ./bashrc ~/.bashrc
