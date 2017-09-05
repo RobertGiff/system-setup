@@ -3,6 +3,7 @@ git submodule update --init
 #cp -r ./bundle/bash-git-prompt/ ~/.bash-git-prompt
 cp ./vimrc ~/.vimrc
 cp ./bashrc ~/.bashrc
+cp ./gitconfig ~/.gitconfig
 rm -r ~/.vim
 mkdir ~/.vim
 cp -r ./* ~/.vim

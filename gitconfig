@@ -1,0 +1,7 @@
+[user]
+	email = robertgif@gmail.com
+	name = Robert Gifford
+[core]
+	editor = vim
+[push]
+	default = matching
