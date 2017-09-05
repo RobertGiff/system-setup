@@ -135,7 +135,7 @@ fi
 #GIT_PROMPT_THEME=Evermeet_Ubuntu # use theme optimized for solarized color scheme
 #source ~/.bash-git-prompt/gitprompt.sh
 
-if ! pidof -x "oneko" >/dev/null; then
-    oneko -tora -fg black -bg darkorange &
-    disown "%+"
-fi
+#if ! pidof -x "oneko" >/dev/null; then
+#    oneko -tora -fg black -bg darkorange &
+#    disown "%+"
+#fi
