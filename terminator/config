@@ -1,11 +1,11 @@
 [global_config]
-  title_transmit_bg_color = "#404040"
+  title_transmit_bg_color = "#2f2f2f"
   focus = system
   borderless = True
 [keybindings]
 [profiles]
   [[default]]
-    background_color = "#404040"
+    background_color = "#2f2f2f"
     background_image = None
     foreground_color = "#ffffff"
     background_type = transparent
