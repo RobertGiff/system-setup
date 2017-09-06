@@ -5,11 +5,13 @@
 [keybindings]
 [profiles]
   [[default]]
-    background_color = "#2f2f2f"
+    use_system_font = False
+    background_darkness = 0.98
+    background_type = transparent
     background_image = None
     foreground_color = "#ffffff"
-    background_type = transparent
-    background_darkness = 0.98
+    font = Monospace 9
+    background_color = "#2f2f2f"
 [layouts]
   [[default]]
     [[[child1]]]
